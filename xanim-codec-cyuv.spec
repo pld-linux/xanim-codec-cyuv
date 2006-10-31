@@ -11,7 +11,7 @@ Source1:	ftp://ftp.informatik.uni-hamburg.de/pub/soft/graphics/xanim/dlls/vid_cy
 Source2:	ftp://ftp.informatik.uni-hamburg.de/pub/soft/graphics/xanim/dlls/vid_cyuv_1.0_linuxELFalphaC6.tgz
 # NoSource2-md5:	97329c7d918cc1c6540233ef761e24a2
 Source3:	ftp://ftp.informatik.uni-hamburg.de/pub/soft/graphics/xanim/dlls/vid_cyuv_1.0_linuxELFppc.tgz
-# Source3-md5:	e870727ded8e00832792df24c3fd13a4
+# NoSource3-md5:	e870727ded8e00832792df24c3fd13a4
 NoSource:	1
 NoSource:	2
 NoSource:	3
