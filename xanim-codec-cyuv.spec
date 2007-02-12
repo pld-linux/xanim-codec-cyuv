@@ -1,5 +1,5 @@
 Summary:	CYUV codec for XAnim
-Summary(pl.UTF-8):   Kodek CYUV dla XAnima
+Summary(pl.UTF-8):	Kodek CYUV dla XAnima
 Name:		xanim-codec-cyuv
 Version:	1.0
 Release:	1
