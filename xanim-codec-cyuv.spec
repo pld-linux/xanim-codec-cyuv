@@ -1,5 +1,5 @@
 Summary:	CYUV codec for XAnim
-Summary(pl):	Kodek CYUV dla XAnima
+Summary(pl.UTF-8):   Kodek CYUV dla XAnima
 Name:		xanim-codec-cyuv
 Version:	1.0
 Release:	1
@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Creative Technology CYUV codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka Creative Technology CYUV dla XAnima.
 
 %prep
